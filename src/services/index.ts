@@ -1,0 +1,5 @@
+export { UsuarioService } from './UsuarioService'
+export { CategoriaService } from './CategoriaService'
+export { ChamadoService } from './ChamadoService'
+export { ComentarioService } from './ComentarioService'
+export { HistoricoChamadoService } from './HistoricoChamadoService'
