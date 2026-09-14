@@ -1,5 +1,7 @@
 export interface Comentario {
-    id?: number
-    mensagem: string
-    data?: Date
+  id?: number
+  mensagem: string
+  usuarioId: number
+  chamadoId: number
+  dataHora?: string
 }
